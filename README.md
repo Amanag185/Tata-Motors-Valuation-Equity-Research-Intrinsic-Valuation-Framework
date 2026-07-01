@@ -345,6 +345,5 @@ Sensitivity analysis was conducted using:
 ## 👥 Contributors
 
 * **Aman Agrawal** - [@Amanag185](https://github.com/Amanag185)
-Indian Institute of Technology Kanpur
 
-Finance • Equity Research • Valuation • Data Analytics
+
